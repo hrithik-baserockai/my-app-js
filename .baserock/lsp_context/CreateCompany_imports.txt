@@ -1,0 +1,23 @@
+# Implementation Details
+
+## Imports
+
+### From: react (ES Module)
+Resolved to: react
+
+#### default Import: React
+
+**Implementation not found**
+
+---
+
+### From: ../../lib/core (ES Module)
+Resolved to: /Users/hrithik/Documents/projects/my-app-js/src/lib/core.js
+
+#### namespace Import: core
+Imported as: *
+
+**Implementation not found**
+
+---
+

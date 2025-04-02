@@ -1,0 +1,29 @@
+# Implementation Details
+
+## Imports
+
+### From: ./logo.svg (ES Module)
+Resolved to: /Users/hrithik/Documents/projects/my-app-js/src/logo.svg
+
+#### default Import: logo
+
+**Implementation not found**
+
+---
+
+### From: ./App.css (ES Module)
+Resolved to: /Users/hrithik/Documents/projects/my-app-js/src/App.css
+
+No specifiers found
+
+---
+
+### From: ./screens/recruiter/CreateCompany (ES Module)
+Resolved to: /Users/hrithik/Documents/projects/my-app-js/src/screens/recruiter/CreateCompany.js
+
+#### default Import: CreateCompany
+
+**Implementation not found**
+
+---
+

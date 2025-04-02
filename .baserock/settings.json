@@ -1,0 +1,13 @@
+{
+  "testingFramework": "jest",
+  "assertionLibrary": "built in jest",
+  "testFileSuffix": "test",
+  "testFolderName": "test",
+  "testFilePathStrategy": "Sibling",
+  "runCommand": "",
+  "overrideTestCommand": false,
+  "moduleSystem": "ES Module",
+  "executionTimeout": "180",
+  "maximumTestCount": "15",
+  "lastUpdated": "2025-04-01T13:55:51.677Z"
+}

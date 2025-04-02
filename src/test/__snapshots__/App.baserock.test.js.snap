@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component App component snapshot matches 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="mock-create-company"
+  >
+    Mocked CreateCompany Component
+  </div>
+</DocumentFragment>
+`;
